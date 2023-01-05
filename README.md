@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-[![Rychen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wong-yichen&show_icons=true)](https://github.com/wong-yichen/github-readme-stats)
+[![Rychen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yichen-Wong&show_icons=true)](https://github.com/Yichen-Wong/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wong-yichen&layout=compact)](https://github.com/wong-yichen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yichen-Wong&layout=compact)](https://github.com/Yichen-Wong/github-readme-stats)
 
 
 
 <!--
-**wong-yichen/wong-yichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yichen-Wong/Yichen-Wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
